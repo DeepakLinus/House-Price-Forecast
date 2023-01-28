@@ -59,7 +59,7 @@
 <p>ScreenPorch: Screen porch area in square feet</p>
 <p>PoolArea: Pool area in square feet</p>
 <p>PoolQC: Pool quality</p> <p>Fence: Fence quality</p>
-<p>Fence: Fence quality</p> == $0
+<p>Fence: Fence quality</p>
 <p>MiscFeature: Miscellaneous feature not covered in other categories</p>
 <p>MiscVal: Value of miscellaneous feature</p>
 <p>MoSold: Month Sold</p>
