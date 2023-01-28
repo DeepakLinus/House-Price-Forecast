@@ -1,6 +1,6 @@
 <h1>About the Dataset</h1>
 <h5>
-SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict./n
 MSSubClass: The building class
 MSZoning: The general zoning classification
 LotFrontage: Linear feet of street connected to property
